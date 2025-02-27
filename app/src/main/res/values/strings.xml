@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First Aid Guide</string>
+    <string name="section_first_aid">Первая помощь</string>
+    <string name="section_documents">Документы</string>
+    <string name="section_rules">Правила поведения</string>
+    <string name="settings_title">Настройки</string>
+    <string name="menu_help">Помощь</string>
+    <string name="menu_settings">Настройки</string>
+</resources>
