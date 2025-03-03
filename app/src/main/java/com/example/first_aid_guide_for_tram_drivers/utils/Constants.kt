@@ -3,7 +3,7 @@ package com.example.first_aid_guide_for_tram_drivers.utils
 object Constants {
     const val BASE_URL = "https://example.com/api/"
 
-    enum class Sections {
+    enum class Sections(s: String) {
         FIRST_AID("first-aid"),
         DOCUMENTS("documents"),
         RULES("rules");
