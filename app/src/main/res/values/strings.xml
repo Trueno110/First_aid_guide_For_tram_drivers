@@ -6,4 +6,5 @@
     <string name="settings_title">Настройки</string>
     <string name="menu_help">Помощь</string>
     <string name="menu_settings">Настройки</string>
+    <string name="help_text">Помощь</string>
 </resources>

@@ -5,4 +5,6 @@ data class Section(
     val title: Int,
     val description: String?,
     val imageResId: Int?
-)
+) {
+    val iconResId: Int = 0
+}

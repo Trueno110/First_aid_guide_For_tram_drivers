@@ -35,7 +35,7 @@ class SectionsAdapter(private val context: Context, private val sections: List<S
         val imageViewIcon = view?.findViewById<ImageView>(R.id.image_view_icon)
 
         val section = sections[position]
-        textViewTitle?.text = section.title
+        textViewTitle?.text = section.title.toString()
         imageViewIcon?.setImageResource(section.iconResId)
 
         return view ?: View(context)

@@ -1,5 +1,7 @@
 package com.example.first_aid_guide_for_tram_drivers.utils
 
+import com.example.first_aid_guide_for_tram_drivers.R
+
 object Constants {
     const val BASE_URL = "https://example.com/api/"
 
